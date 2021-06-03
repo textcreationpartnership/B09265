@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The husband's instructions to his family:, or, Household observations fit to be observed by vvife, children, and servants</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09265</idno><idno type="EEBO-CITATION">64551319</idno>
+  <idno type="VID">184610</idno>
+  <idno type="EEBO-PROQUEST">2240863825</idno>
+  
+            <idno type="STC">Wing H3809B</idno>
+            <idno type="STC">ESTC R224431</idno>
+            <idno type="OCLC">64551319</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09265)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184610)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2868:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The husband's instructions to his family:, or, Household observations fit to be observed by vvife, children, and servants</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by William Downing, in Great St. Bartholomew's-Close,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"This may be printed, R. L. S. Aug. 25th. 1685. and entred according to order."</note>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Patriarchy --  England --  Poetry --  Early works to 1800.</term>
+               <term type="topical_term">Family --  England --  Poetry --  Early works to 1800.</term>
+               <term type="topical_term">English Poetry --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:184610:1"/>
+            <head>The Husbands Instructions to his Family: OR, HOUSHOLD OBSERVATIONS, <hi>Fit to be observed by VVife, Children, and Servants.</hi>
+            </head>
+            <p>
+               <figure>
+                  <head>A Family well Govern'd, is like a Kingdom well Rui'd.</head>
+                  <p>The Father's Love and Care of his Children, is like that of the KING's over his People.</p>
+                  <p>Good Servants generally prove Good Masters, &amp; Good Subjects.</p>
+               </figure>
+            </p>
+            <lg n="1">
+               <head>
+                  <hi>I.</hi> To the WIFE.</head>
+               <l>SInce You're my <hi>Wife</hi> by Holy Nuptial State,</l>
+               <l>Such You shou'd be, as these few Lines relate:</l>
+               <l>By Nature mild, Your Conversation free,</l>
+               <l>Keeping the Bounds of charming Modesty.</l>
+               <l>Averse to all the gaudy Pomp of Pride;</l>
+               <l>Yet Neat, a Wife, as first when dress'd a Bride.</l>
+               <l>Your Face neglected, (such as Heav'n design'd)</l>
+               <l>Advancing only Beauties of the Mind.</l>
+               <l>Saving, though not Penurious, of what Heav'n,</l>
+               <l>With Bounteous Hands, has for our Portion giv'n.</l>
+               <l>Nor boast too much in Wealth, if Heaven's Hand</l>
+               <l>Has bless'd and fixt you in a Fruitful Land:</l>
+               <l>Those Worldly Comforts most inconstant are,</l>
+               <l>Whose Rise and Fall depends on Heaven's Care.</l>
+               <l>Nor yet repine, tho' Poverty molest.</l>
+               <l>And carking Cares disturb your Nightly Rest:</l>
+               <l>GOD still his Favours most in Sorrow proves,</l>
+               <l>As the kind Father whips the Child he loves.</l>
+               <l>Let all your Admonitions mild appear,</l>
+               <l>Not loudly talk'd, but whisper'd in the Ear,</l>
+               <l>For noisy Clamours of a Woman's Tongue,</l>
+               <l>Upbraiding <hi>Husband,</hi> that he's in the Wrong,</l>
+               <l>Prove like rough Winds, that do the Seas engage,</l>
+               <l>Which 'stead of calming, make them higher rage.</l>
+               <l>Nor let the Viper <hi>(Jealousie)</hi> find Rest,</l>
+               <l>For his tormenting Sting, within your Breast:</l>
+               <l>VVhere That bears sway, Distractions still abound,</l>
+               <l>No Antidote is for This Poyson found:</l>
+               <l>For if within You once This takes a Root,</l>
+               <l>No Way, or Art, is found to pluck it out.</l>
+               <l>To these soft Measures but your Life confine,</l>
+               <l>'Twill make wild Batchellors think <hi>Wives</hi> Divine.</l>
+               <l>And since, <hi>(Dear Wife!)</hi> You do a Mother prove,</l>
+               <l>You must Correct Your Child, as well as Love.</l>
+               <l>For as the Steed, unrein'd, takes his Career,</l>
+               <l>And Gallops, Trots, and Runs he knows not where;</l>
+               <l>So, by Indulgence, (<hi>Solomon</hi> does say)</l>
+               <l>The Child to Rule, is apter than Obey:</l>
+               <l>Then take the Counsel, which the Wife has giv'n,</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>And then, May I</hi> (<hi>the</hi> Husband) <hi>lead a Life,</hi>
+               </l>
+               <l>
+                  <hi>Deserving such a</hi> Mother, <hi>such a</hi> Wife.</l>
+            </lg>
+            <lg n="2">
+               <head>
+                  <hi>II.</hi> To the CHILDREN.</head>
+               <l>INstructed now my <hi>Wife:</hi> Then next ensues</l>
+               <l>Advice for you, <hi>dear Babes,</hi> the Wedlock's dues;</l>
+               <l>Who are (though by Indulgent Heaven sent)</l>
+               <l>Of Parent's Joys, or Woes, the Instrument.</l>
+               <l>Since then my Root, you blooming Branches bears,</l>
+               <l>Strive not to be Estate's, but Vertue's Heirs.</l>
+               <l>Enamel not your selves with outward Meen,</l>
+               <l>But mind whose inward Graces best are seen:</l>
+               <lg>
+                  <l>For Riches fade, and wing themselves away;</l>
+                  <l>But Vertue stands, and faces the Last Day,</l>
+                  <l>For ever Beauteous, knowing no Decay.</l>
+               </lg>
+               <l>Commanded; let obliging Willingness,</l>
+               <l>As Children's Duty, Children's Love express.</l>
+               <lg>
+                  <l>And as to Me, you Love and Duty owe;</l>
+                  <l>So, 'mongst your selves, let mutual Kindness flow,</l>
+                  <l>And twine in Love, as <hi>Oak</hi> and <hi>Ivy</hi> grow.</l>
+               </lg>
+               <l>Soft as the tender Paps each suck't, when Young,</l>
+               <l>Be ev'ry Word that drops from each ones Tongue:</l>
+               <lg>
+                  <l>For stubborn Grumblings in a Corner, show</l>
+                  <l>The ready Paths, which to Destruction go;</l>
+                  <l>Ending in Soul and Body's Overthrow.</l>
+               </lg>
+               <l>And from whose Lips come profane Oaths &amp; Lies,</l>
+               <l>They fall the Fall'n Angel's Sacrifice.</l>
+               <l>All Brutal Lusts and Passions must you fly,</l>
+               <l>If you'll Entail your selves my Progeny.</l>
+               <l>Shun all the wild Companions of the Age;</l>
+               <l>Nor in their Luxuries with them engage;</l>
+               <l>Who, 'stead of Moderation, use Excess</l>
+               <l>In every Diet, and in every Dress;</l>
+               <lg>
+                  <l>Consuming Credit, Time, Estate, and All,</l>
+                  <l>That we may Happy, Good, or Precious call;</l>
+                  <l>And so to Ruine, wretched Creatures, fall.</l>
+               </lg>
+               <lg>
+                  <l>Nor must you quaff too much the juicy Grape,</l>
+                  <l>Which on your Reason acts a general Rape,</l>
+                  <l>Making your Senses ugly as your Shape:</l>
+               </lg>
+               <l>For VVine too freely entertain'd within,</l>
+               <l>Though smooth above, below has Sinks of Sin,</l>
+               <l>VVhere Vertue drowns, &amp; Vice comes floating in.</l>
+               <l>But <hi>Wife</hi> and <hi>Children,</hi> if you Goodness mind,</l>
+               <l>You the Reward, as well as I, shall find:</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>And if you</hi> Vice <hi>abhor, and</hi> Grace <hi>pursue,</hi>
+               </l>
+               <l>
+                  <hi>I am happy</hi> Husband, <hi>happy</hi> Father <hi>too.</hi>
+               </l>
+            </lg>
+            <lg n="3">
+               <head>
+                  <hi>III.</hi> To the SERVANTS.</head>
+               <l>LAstly, My Servants, if you would me please,</l>
+               <l>You must observe, &amp; keep such Rules as these:</l>
+               <l>Be true and trusty; let your Hands be clear,</l>
+               <l>And to Purloyn your Master's Goods, forbear.</l>
+               <l>I hate a Slut, I hate a sawcy Knave;</l>
+               <l>And in a Lyar I no Pleasure have.</l>
+               <l>I hate all those that have a vaunting Vein,</l>
+               <l>And those that Other's Credits love to stain.</l>
+               <lg>
+                  <l>I hate the Swearer, and the Drunken Sot,</l>
+                  <l>Who vow Obedience only to the Pot;</l>
+                  <l>By which Love, Fear, and Duty are forgot.</l>
+               </lg>
+               <l>I like not such, who would by fawning please,</l>
+               <l>Nor those that love their Belly, and their Ease.</l>
+               <l>Sly Sneaks, that would my Secrets over-look;</l>
+               <l>Proud Fools, or Talking Ones, I cannot brook.</l>
+               <l>I like not those, that are unapt to learn;</l>
+               <l>Nor those, that grudgingly their VVages earn.</l>
+               <l>Those I detest, who Cards and Dice do use,</l>
+               <l>Quarrel with Fellow-Servants, and abuse.</l>
+               <l>The Loyterer too, who does of Errands stay,</l>
+               <l>By false Occasions making long his way.</l>
+               <l>Those too I hate, who only serve the Eye;</l>
+               <l>Nor longer labour, than whil'st I am by.</l>
+               <l>And such, by Night, who revel out of Doors,</l>
+               <l>Are only fit to serve the Galley-Oars.</l>
+               <l>The false, deceitful Soul, I hate as Hell;</l>
+               <l>Only with me the Honest Heart shall dwell,</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>That's Humble, Painful, willing to Obey,</hi>
+               </l>
+               <l>
+                  <hi>And well deserves to Rule another Day.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>DIstinctly thus the PATHS to You I've Read,</l>
+               <l>In which I sev'rally would have you tread.</l>
+               <l>But something, sure, remains for me to do;</l>
+               <l>For I'm but Man, and frail as well as you.</l>
+               <lg>
+                  <l>Oh then, Kind Heav'n, propit'ous to me prove!</l>
+                  <l>Let all my serious Thoughts be fixt Above,</l>
+                  <l>Contemplating on my Creator's Love.</l>
+               </lg>
+               <l>Praise then with me, that Great, that Glorious Name,</l>
+               <l>By which to wretched Man Salvation came.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>This may be Printed, <hi>R.L.S. Aug.</hi> 25th. 1685.</p>
+            <p>
+               <hi>And Entred according to Order.</hi>
+            </p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>William Downing,</hi> in Great St. <hi>Bartholomew</hi>'s-Close, 1685.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
